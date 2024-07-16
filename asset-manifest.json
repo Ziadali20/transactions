@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ziadali20.github.io/transactions/static/css/main.ff02f4b5.css",
-    "main.js": "/Ziadali20.github.io/transactions/static/js/main.3dcacac6.js",
-    "static/js/453.1b585bbf.chunk.js": "/Ziadali20.github.io/transactions/static/js/453.1b585bbf.chunk.js",
-    "index.html": "/Ziadali20.github.io/transactions/index.html",
-    "main.ff02f4b5.css.map": "/Ziadali20.github.io/transactions/static/css/main.ff02f4b5.css.map",
-    "main.3dcacac6.js.map": "/Ziadali20.github.io/transactions/static/js/main.3dcacac6.js.map",
-    "453.1b585bbf.chunk.js.map": "/Ziadali20.github.io/transactions/static/js/453.1b585bbf.chunk.js.map"
+    "main.css": "/transactions/static/css/main.ff02f4b5.css",
+    "main.js": "/transactions/static/js/main.1e0dfefc.js",
+    "static/js/453.1b585bbf.chunk.js": "/transactions/static/js/453.1b585bbf.chunk.js",
+    "index.html": "/transactions/index.html",
+    "main.ff02f4b5.css.map": "/transactions/static/css/main.ff02f4b5.css.map",
+    "main.1e0dfefc.js.map": "/transactions/static/js/main.1e0dfefc.js.map",
+    "453.1b585bbf.chunk.js.map": "/transactions/static/js/453.1b585bbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.3dcacac6.js"
+    "static/js/main.1e0dfefc.js"
   ]
 }
